@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<div align="left" style="flex">
+<div align="left " className="flex" >
   <div>
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="10" />
