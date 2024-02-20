@@ -1,62 +1,22 @@
-<h1 align="left">Hi! My name is Prince kashish 😄</h1>
+Hi! My name is Stefan Topalović 😄
+========================================================================================================================================
 
-###
+🌍  I am a Front-End Developer based in Belgrade, Serbia.
+<br/>
 
-<p align="left">🌍  I am a Front-End Developer based in Dehi, India.</p>
+### Skills
 
-###
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=tailwind,figma)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs)](https://skillicons.dev)
+<br/>
 
-<p align="left">✨ I have a keen interest in becoming a full-stack developer.<br>📚 I'm currently learning Web Performance Optimization.<br>🎯 Learning........</p>
+### Socials
 
-###
-
-<h4 align="left">Skills</h4>
-
-###
-
-<br clear="both">
-
-<div align="left " display="flex" >
-  <div>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="10" />
-  </div>
-  
-  <div>
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="10" />
-  </div>
-  
-  <div>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="10" />
-  </div>
-  
-  <div>
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="10" />
-  </div>
-  <div>
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  </div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/prince-kashish-6b6302214/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
-
-###
-
-<h4 align="left">Socials</h4>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
