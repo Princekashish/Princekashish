@@ -1,7 +1,7 @@
 Hi! My name is Prince Kashish 😄
-========================================================================================================================================
+========================================================================
 
-🌍  I am a Front-End Developer based in Delhi, India.
+🌍 I am a Front-End Developer based in Delhi, India.
 <br/>
 
 ### Skills
@@ -15,8 +15,11 @@ Hi! My name is Prince Kashish 😄
 
 ### Socials
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/prince-kashish-6b6302214/">
+<div id="badges ">
+  <a href="https://www.linkedin.com/in/prince-kashish-6b6302214/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://leetcode.com/u/princekashish136/" target="_blank">
+     <img alt="LeetCode" width="125" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/>
+   </a>
 </div>
