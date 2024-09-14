@@ -1,7 +1,7 @@
 Hi! My name is Prince Kashish 😄
 ========================================================================
 
-🌍 I am a Front-End Developer based in Delhi, India.
+🌍 I am a FullStak Developer based in Delhi, India.
 <br/>
 
 ### Skills
